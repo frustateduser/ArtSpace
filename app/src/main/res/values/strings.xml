@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="github_icon">GitHub Icon</string>
+    <string name="by_github_year">By Github (2022)</string>
+    <string name="by_facebook_year">By Facebook (2022)</string>
+    <string name="facebook_icon">Facebook Icon</string>
+    <string name="by_whatsapp_year">By Whatsapp (2022)</string>
+    <string name="whatsapp_icon">Whatsapp Icon</string>
+    <string name="by_youtube_year">By Youtube (2022)</string>
+    <string name="youtube_icon">Youtube Icon</string>
+</resources>
